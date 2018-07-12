@@ -1,7 +1,6 @@
 #include <stdio.h>
-int main()
+int print_hello(void)
 {
-   // printf() displays the string inside quotation
-   printf("Hello, World! Seungwoo\n");
+      printf("Hello, World! Seungwoo\n");
       return 0;
 }
