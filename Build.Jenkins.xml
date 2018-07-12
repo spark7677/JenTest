@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Hello" default="init" basedir=".">
+	<description>Hello build file</description>
+	<target name="init">
+		gcc -o Hello HelloWorld.c main.c
+	</target>
+	<target name="second">
+	
+	</target>
+</project>
