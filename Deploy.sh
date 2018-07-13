@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Hello this is shell"
+echo "Hello this is shell!"
 
 cppcheck HelloWorld.c main.c simple.c --xml 2> cppcheck-result.xml
 
