@@ -587,3 +587,40 @@ Checking simple.c ...
 6/6 files checked 100% done
 Hello, World! Seungwoo
 Hello, World! Seungwoo
+[master a8fd06e] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 34 insertions(+)
+remote: Unexpected system error after push was received.        
+remote: These changes may not be reflected on github.com!        
+remote: Your unique error code: 061b8ada23b33a3f45ed875a6016be3a        
+To https://github.com/spark7677/JenTest/
+   82d8e05..a8fd06e  master -> master
+Build Step
+Mon Jul 16 19:00:01 UTC 2018
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
