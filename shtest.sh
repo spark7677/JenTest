@@ -10,7 +10,9 @@ gcc -o Hello HelloWorld.o main.o
 git add .
 
 git commit -m "EC2 Cron"
+cat <<@
 spark7677
 tmddn87Q!
+@
 
 git push
