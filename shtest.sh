@@ -1,5 +1,7 @@
 echo "Build Step"
 
+date
+
 git pull
 
 cppcheck . --xml 2> cppcheck-result.xml
