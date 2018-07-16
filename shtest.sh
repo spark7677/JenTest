@@ -11,8 +11,4 @@ git add .
 
 git commit -m "EC2 Cron"
 
-echo "spark7677"
-echo "tmddn87Q!"
-
-
 git push
