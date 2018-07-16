@@ -1,1 +1,504 @@
+<<<<<<< HEAD
 New Start
+=======
+Build Step
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master 4ef1004] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 16 insertions(+)
+ create mode 100755 cron.log
+To https://github.com/spark7677/JenTest/
+   06980f2..4ef1004  master -> master
+Build Step
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master 634c77e] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 34 insertions(+)
+To https://github.com/spark7677/JenTest/
+   4ef1004..634c77e  master -> master
+Build Step
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master 11bba49] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 33 insertions(+)
+To https://github.com/spark7677/JenTest/
+   634c77e..11bba49  master -> master
+Build Step
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master 9422e39] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 33 insertions(+)
+To https://github.com/spark7677/JenTest/
+   11bba49..9422e39  master -> master
+Build Step
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master 00448c7] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 33 insertions(+)
+To https://github.com/spark7677/JenTest/
+   9422e39..00448c7  master -> master
+Build Step
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master e94b296] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 33 insertions(+)
+To https://github.com/spark7677/JenTest/
+   00448c7..e94b296  master -> master
+Build Step
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master 1f9fdc3] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 33 insertions(+)
+To https://github.com/spark7677/JenTest/
+   e94b296..1f9fdc3  master -> master
+Build Step
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master 5238a25] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 33 insertions(+)
+To https://github.com/spark7677/JenTest/
+   1f9fdc3..5238a25  master -> master
+Build Step
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master 8657a7e] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 33 insertions(+)
+To https://github.com/spark7677/JenTest/
+   5238a25..8657a7e  master -> master
+Build Step
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master 399c79a] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 33 insertions(+)
+To https://github.com/spark7677/JenTest/
+   8657a7e..399c79a  master -> master
+Build Step
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master e08a859] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 33 insertions(+)
+To https://github.com/spark7677/JenTest/
+   399c79a..e08a859  master -> master
+Build Step
+Mon Jul 16 15:37:01 UTC 2018
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master bc75bc5] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 36 insertions(+)
+To https://github.com/spark7677/JenTest/
+   e08a859..bc75bc5  master -> master
+Build Step
+Mon Jul 16 15:38:01 UTC 2018
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master 960ff3f] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 34 insertions(+)
+To https://github.com/spark7677/JenTest/
+   bc75bc5..960ff3f  master -> master
+Build Step
+Mon Jul 16 15:39:01 UTC 2018
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master ffdf26a] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 34 insertions(+)
+To https://github.com/spark7677/JenTest/
+   960ff3f..ffdf26a  master -> master
+Build Step
+Mon Jul 16 15:41:01 UTC 2018
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
+[master ed29f0c] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 34 insertions(+)
+To https://github.com/spark7677/JenTest/
+   ffdf26a..ed29f0c  master -> master
+>>>>>>> 2bb2453074fad752ff119e749bb18f8e441bc070
