@@ -519,3 +519,20 @@ Checking simple.c ...
 6/6 files checked 100% done
 Hello, World! Seungwoo
 Hello, World! Seungwoo
+[master 44f612b] EC2 Cron
+ Committer: EC2 Default User <ec2-user@ip-172-31-23-174.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+To https://github.com/spark7677/JenTest/
+   4d37121..44f612b  master -> master
