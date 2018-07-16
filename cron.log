@@ -502,3 +502,20 @@ After doing this, you may fix the identity used for this commit with:
 To https://github.com/spark7677/JenTest/
    ffdf26a..ed29f0c  master -> master
 >>>>>>> 2bb2453074fad752ff119e749bb18f8e441bc070
+Build Step
+Mon Jul 16 16:00:01 UTC 2018
+Already up-to-date.
+Checking HelloWorld.c ...
+1/6 files checked 16% done
+Checking JenTest/HelloWorld.c ...
+2/6 files checked 33% done
+Checking JenTest/main.c ...
+3/6 files checked 50% done
+Checking JenTest/simple.c ...
+4/6 files checked 66% done
+Checking main.c ...
+5/6 files checked 83% done
+Checking simple.c ...
+6/6 files checked 100% done
+Hello, World! Seungwoo
+Hello, World! Seungwoo
